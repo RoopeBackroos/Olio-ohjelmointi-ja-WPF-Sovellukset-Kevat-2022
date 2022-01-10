@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{01F52184-8D82-4DFD-90C3-50B3BED34EF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koira", "Koira\Koira.csproj", "{C270D1B9-DE34-44F0-B411-02088BF41A90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{01F52184-8D82-4DFD-90C3-50B3BED34EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01F52184-8D82-4DFD-90C3-50B3BED34EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01F52184-8D82-4DFD-90C3-50B3BED34EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C270D1B9-DE34-44F0-B411-02088BF41A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C270D1B9-DE34-44F0-B411-02088BF41A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C270D1B9-DE34-44F0-B411-02088BF41A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C270D1B9-DE34-44F0-B411-02088BF41A90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
