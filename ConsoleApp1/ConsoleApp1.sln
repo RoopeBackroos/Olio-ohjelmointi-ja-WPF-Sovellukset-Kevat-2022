@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Muuntaja", "Muuntaja\Muunta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "laskin", "laskin\laskin.csproj", "{238B4991-97F2-45A9-A516-23BC480B8037}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "henkilö", "henkilö\henkilö.csproj", "{C6946ECF-7217-4F69-99D3-2E04C9C4A2B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{238B4991-97F2-45A9-A516-23BC480B8037}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{238B4991-97F2-45A9-A516-23BC480B8037}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{238B4991-97F2-45A9-A516-23BC480B8037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6946ECF-7217-4F69-99D3-2E04C9C4A2B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6946ECF-7217-4F69-99D3-2E04C9C4A2B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6946ECF-7217-4F69-99D3-2E04C9C4A2B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6946ECF-7217-4F69-99D3-2E04C9C4A2B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
