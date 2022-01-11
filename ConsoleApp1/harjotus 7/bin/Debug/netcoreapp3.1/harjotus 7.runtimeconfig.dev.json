@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\roope.backroos\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\roope.backroos\\.nuget\\packages"
+    ]
+  }
+}
