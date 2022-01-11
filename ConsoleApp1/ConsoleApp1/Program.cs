@@ -20,6 +20,8 @@ namespace ConsoleApp1
             koira2.rotu = "doopermanne";
 
             koira2.Tulosdata();
+
+            Koira koira3 = new Koira("urpo", 5, "mopsi");
         }
     }
 }

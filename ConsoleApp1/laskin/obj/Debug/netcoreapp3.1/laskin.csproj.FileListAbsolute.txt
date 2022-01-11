@@ -1,0 +1,14 @@
+C:\Users\roope.backroos\source\repos\RoopeBackroos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\laskin\bin\Debug\netcoreapp3.1\laskin.exe
+C:\Users\roope.backroos\source\repos\RoopeBackroos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\laskin\bin\Debug\netcoreapp3.1\laskin.deps.json
+C:\Users\roope.backroos\source\repos\RoopeBackroos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\laskin\bin\Debug\netcoreapp3.1\laskin.runtimeconfig.json
+C:\Users\roope.backroos\source\repos\RoopeBackroos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\laskin\bin\Debug\netcoreapp3.1\laskin.runtimeconfig.dev.json
+C:\Users\roope.backroos\source\repos\RoopeBackroos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\laskin\bin\Debug\netcoreapp3.1\laskin.dll
+C:\Users\roope.backroos\source\repos\RoopeBackroos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\laskin\bin\Debug\netcoreapp3.1\laskin.pdb
+C:\Users\roope.backroos\source\repos\RoopeBackroos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\laskin\obj\Debug\netcoreapp3.1\laskin.csproj.AssemblyReference.cache
+C:\Users\roope.backroos\source\repos\RoopeBackroos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\laskin\obj\Debug\netcoreapp3.1\laskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roope.backroos\source\repos\RoopeBackroos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\laskin\obj\Debug\netcoreapp3.1\laskin.AssemblyInfoInputs.cache
+C:\Users\roope.backroos\source\repos\RoopeBackroos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\laskin\obj\Debug\netcoreapp3.1\laskin.AssemblyInfo.cs
+C:\Users\roope.backroos\source\repos\RoopeBackroos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\laskin\obj\Debug\netcoreapp3.1\laskin.csproj.CoreCompileInputs.cache
+C:\Users\roope.backroos\source\repos\RoopeBackroos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\laskin\obj\Debug\netcoreapp3.1\laskin.dll
+C:\Users\roope.backroos\source\repos\RoopeBackroos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\laskin\obj\Debug\netcoreapp3.1\laskin.pdb
+C:\Users\roope.backroos\source\repos\RoopeBackroos\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\ConsoleApp1\laskin\obj\Debug\netcoreapp3.1\laskin.genruntimeconfig.cache
